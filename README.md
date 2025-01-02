@@ -29,4 +29,4 @@ This system monitors the driver's eye movements and sends real-time audio alerts
 - This project is licensed under the MIT License.
 
 ## Contact
-- For queries, contact K J Justin.
+- For queries, contact Dhanyashree.
